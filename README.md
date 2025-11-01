@@ -5,7 +5,7 @@ Each task focuses on enhancing creativity, interactivity, and frontend developme
 
 ## 🎨 Technologies Used
 - HTML5  
-- CSS3  
+- CSS
 - JavaScript
 
 ## 💡 Author
